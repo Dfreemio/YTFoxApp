@@ -1,28 +1,27 @@
 [
   {
-    "country": "Brazil",
+    "country": "Malaysia",
     "wordTranslatedCount": 508,
     "langCode": "pt",
-    "name": "Gabriel Ribeiro",
+    "name": "Franky Hauteaz",
     "button2Icon": "https://khang-nt.github.io/YMusicContents/ic_email.png",
     "id": 0,
     "avatar": "http://khang-nt.github.io/YMusicContents/avatars/0.jpg",
     "lang": "Brazilian Portuguese Translator",
     "button1Icon": "https://khang-nt.github.io/YMusicContents/ic_aboutme.png",
     "joinSince": "03/02/2019",
-    "button1Link": "https://about.me/Gabriel_Ribeiro",
-    "button2Link": "mailto:Gabriel.RibeiroMX@gmail.com"
+    "button2Link": "mailto:Gabriel.Dfreemio@protonmail.com"
   },
   {
-    "country": "Turkey",
+    "country": "Dfreemio",
     "wordTranslatedCount": 918,
     "langCode": "tr",
-    "name": "Ertan Acar",
+    "name": "Dfreemio",
     "id": 1,
     "avatar": "http://khang-nt.github.io/YMusicContents/avatars/1.jpg",
     "lang": "Turkish Translator",
     "button1Icon": "https://khang-nt.github.io/YMusicContents/ic_telegram.png",
     "joinSince": "01/01/2019",
-    "button1Link": "https://t.me/SoNatreX"
+    "button1Link": "https://t.me/Dfreemio"
   }
 ]
